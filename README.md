@@ -1,6 +1,6 @@
 # Felixadmin
 
-This repo is only for testing [zapier.com](http://zapier.com/) trigger like: github/new_commit_comment -> teamworkpm/create_message
+This repo is only for testing [zapier.com](http://zapier.com/) trigger: github/new_commit_comment -> teamworkpm/create_message
 
 Requirements:
 * **phpgrid** - Copywrite phpGrid [more ..](http://phpgrid.com/)
