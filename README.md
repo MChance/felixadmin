@@ -8,9 +8,13 @@ Requirements:
 ##Install
 * Checkout the source: `git clone git://github.com/MChance/felixadmin.git` and install it yourself.
 
+##How to
+* ???
+
 ## Examples
 ```php
 	echo 'Hello world!';
 ```
+
 
 -![alt text](http://i.imgur.com/WWLYo.gif "Frustrated cat can't believe this is the 12th time he's clicked on an auto-linked README.md URL")
