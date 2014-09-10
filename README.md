@@ -8,7 +8,7 @@ Requirements:
 ##Install
 * Checkout the source: `git clone git://github.com/MChance/felixadmin.git` and install it yourself.
 
-##Hm..
+##Hm, hm..
 * Works as expected
 
 ## Examples
