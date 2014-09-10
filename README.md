@@ -8,8 +8,8 @@ Requirements:
 ##Install
 * Checkout the source: `git clone git://github.com/MChance/felixadmin.git` and install it yourself.
 
-##How to
-* ???
+##Hm..
+* Works as expected
 
 ## Examples
 ```php
