@@ -9,7 +9,7 @@ Requirements:
 * Checkout the source: `git clone git://github.com/MChance/felixadmin.git` and install it yourself.
 
 ##Hm, hm..
-* Works as expected
+* Nice, works as expected
 
 ## Examples
 ```php
